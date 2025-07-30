@@ -15,12 +15,14 @@ Structure:
 markdown
 Copy
 Edit
-dataset/
-└── class_name/
 
-      ├── rgb/
+      dataset/
+
+      └── class_name/
+
+            ├── rgb/
       
-      └── depth/
+            └── depth/
 🏷️ Annotation
 Tool Used: Roboflow
 
