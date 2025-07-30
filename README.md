@@ -13,8 +13,6 @@ Depth frames (.png)
 Structure:
 
 markdown
-Copy
-Edit
 
       dataset/
 
