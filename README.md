@@ -17,7 +17,9 @@ Copy
 Edit
 dataset/
 └── class_name/
+
       ├── rgb/
+      
       └── depth/
 🏷️ Annotation
 Tool Used: Roboflow
